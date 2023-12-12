@@ -11,18 +11,10 @@ I am a student who constantly develops and improves.I am developing an applicati
 * 🧠  I'm learning frameworks, backend and etc.
 * 🤝  I'm open to collaborating on Cyber Secuity, Data Analytics, Artificial Intelligence Projects
 
-class Developer:
-    def __init__(self, name):
-        self.name = name
-        self.languages = ["Flutter", "Python", "C++", "C#"]
-        self.tools = ["Unreal Engine", "Unity", "Visual Studio Code", "Firebase", "Azure"]
-        self.developing = ["vtol", "2d&3d modeling", "web_sites"]
 
-    def say_hello(self):
+
+   def say_hello(self):
         return f"Hi there, I'm {self.name}! Welcome to my GitHub profile!"
-
-me = Developer("Nilay")
-print(me.say_hello())
 
 
 ### Skills
