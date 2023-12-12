@@ -13,8 +13,6 @@ I am a student who constantly develops and improves.I am developing an applicati
 
 
 
-   def say_hello(self):
-        return f"Hi there, I'm {self.name}! Welcome to my GitHub profile!"
 
 
 ### Skills
